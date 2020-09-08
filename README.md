@@ -1,2 +1,23 @@
-# Unsupervised_Bank_Card_Fraud_Detection
-Unsupervised_Bank_Card_Fraud_Detection
+#   Bank Card Fraud Detection - Unsupervised Anomaly Detection 
+
+![Myers Briggs Personality Types](images/img1.jpg)
+
+## Project Purpose 
+
+The purpose of this project is to apply various unsupervised anomaly detection techniques to find fraudulent activities in the credit card data. 
+
+## Tools & Modules Used
+
+*   Data Analysis - Pandas | Numpy | Matplotlib | Seaborn
+*   Anomaly Detection Techniques - 
+    * Isolation Forest
+    * Local Outlier Factor
+*   Deep Learning Techniques - 
+    * AutoEncoder
+    * CNN
+
+## Dataset
+
+The datasets contains transactions made by credit cards in September 2013 by european cardholders.
+
+It contains only numerical input variables which are the result of a PCA transformation. Due to confidentiality issues, the original features are converted into PCA features - V1, V2, … V28. The only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
