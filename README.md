@@ -8,6 +8,7 @@ The purpose of this project is to apply various unsupervised anomaly detection t
 
 ## Tools & Modules Used
 
+*   Python3
 *   Data Analysis - Pandas | Numpy | Matplotlib | Seaborn
 *   Anomaly Detection Techniques - 
     * Isolation Forest
