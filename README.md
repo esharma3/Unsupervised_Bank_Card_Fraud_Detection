@@ -24,4 +24,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ## Result
 
-Anomaly detection techniques like Isolation Forest and Local Outlier Factor did not work well on this highly imbalanced dataset. Deep Learning techniques like AutoEncoders with the Logistic Regression Model and a Convolution Neural Network model performed well on this dataset. 
+Anomaly detection techniques like Isolation Forest and Local Outlier Factor did not work well on this highly imbalanced dataset. Deep Learning techniques like AutoEncoders with the Logistic Regression Model and a Convolution Neural Network model performed well on dataset. 
